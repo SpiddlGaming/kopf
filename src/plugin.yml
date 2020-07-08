@@ -1,0 +1,8 @@
+name: Kopf
+author: SpiddlGaming
+version: 0.1
+main: de.nitrocraft.kopf.Main
+
+commands:
+ kopf:
+ kreload:
